@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhoserpacheco&show_icons=true&theme=radical)
 <!--
 **jhoserpacheco/jhoserpacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/jhoserpacheco/jhoserpacheco">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoserpacheco&show_icons=true&theme=radical" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhoserpacheco)](https://github.com/jhoserpacheco/github-readme-stats)
+
