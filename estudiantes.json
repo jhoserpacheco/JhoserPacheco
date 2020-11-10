@@ -2,6 +2,7 @@
   {
     "nombre": "Jhoser",
     "apellido": "Pacheco",
+    "genero": "M",
     "codigo": 1151807,
     "email": "jhoserfabianpq@ufps.edu.co",
     "materias": {
@@ -12,6 +13,7 @@
   {
     "nombre": "Stiward",
     "apellido": "Carrillo",
+    "genero": "M",
     "codigo": 1151811,
     "email": "stiwardjherikof@ufps.edu.co",
     "materias": {
@@ -22,6 +24,7 @@
   {
     "nombre": "Yurley",
     "apellido": "Espinel",
+    "genero": "F",
     "codigo": 1151760,
     "email": "yurleygabrielaes@ufps.edu.co",
     "materias": {
@@ -33,6 +36,7 @@
   {
     "nombre": "Matilde",
     "apellido": "Arevalo",
+    "genero": "F",
     "codigo": 1151788,
     "email": "matildealexandraal@ufps.edu.co",
     "materias": {
@@ -43,6 +47,7 @@
   {
     "nombre": "Natalia",
     "apellido": "Ortiz",
+    "genero": "F",
     "codigo": 1151770,
     "email": "nataliaoa@ufps.edu.co",
     "materias": {
@@ -53,6 +58,7 @@
   {
     "nombre": "Camila",
     "apellido": "Calderon",
+    "genero": "F",
     "codigo": 1151763,
     "email": "angelycamilacg@ufps.edu.co",
     "materias": {
@@ -63,6 +69,7 @@
   {
     "nombre": "Ronald",
     "apellido": "Benitez",
+    "genero": "M",
     "codigo": 1151813,
     "email": "ronaldeduardobm@ufps.edu.co",
     "materias": {
@@ -71,18 +78,9 @@
     }
   },
   {
-    "nombre": "Camila",
-    "apellido": "Calderon",
-    "codigo": 1151763,
-    "email": "angelycamilacg@ufps.edu.co",
-    "materias": {
-      "programacionweb": "1155604",
-      "proyectosocial": "1155611"
-    }
-  },
-  {
     "nombre": "Susana",
     "apellido": "Rojas",
+    "genero": "F",
     "codigo": 1151767,
     "email": "susanart@ufps.edu.co",
     "materias": {
@@ -93,6 +91,7 @@
   {
     "nombre": "Manuel",
     "apellido": "Coronel",
+    "genero": "M",
     "codigo": 1151806,
     "email": "andrademanuelalejandroc@ufps.edu.co",
     "materias": {
@@ -103,6 +102,7 @@
   {
     "nombre": "Jhoel",
     "apellido": "Castilla",
+    "genero": "M",
     "codigo": 1151755,
     "email": "osoriojunioryoelc@ufps.edu.co",
     "materias": {
